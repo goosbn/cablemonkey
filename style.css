@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital@0;1&display=swap');
+
+body {
+    font-family: 'Josefin Sans';
+    font-size: 13.5pt;
+    color: #fefefe;
+    background-color: #0f0f0f;
+}
+
+#header {
+    text-align: center;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image {
+    border-top: 8pt;
+    border-right: 8pt;
+    border-radius: 5%;
+}
+
+.quote {
+    font-style: italic;
+    font-size: 15pt;
+}
+
+.emoji {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    vertical-align: -.1em;
+}
