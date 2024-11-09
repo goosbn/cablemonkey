@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:ital@0;1&display=swap');
 
 body {
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Comfortaa', sans-serif;
     font-size: 13.5pt;
     color: #fafafa;
-    background-color: #0f0f0f;
+    background-color: #353535;
 }
 
 #navbar {
@@ -35,11 +35,11 @@ body {
 }
 
 .menze {
-    color: #17d67d;
+    color: #6a1b9a;
 }
 
 .tunte {
-    color: #d61770;
+    color: #ab47bc;
 }
 
 .image {
@@ -52,7 +52,7 @@ body {
     border-bottom-style: solid;
     border-left-width: 8px;
     border-left-style: solid;
-    border-color: #fafafa;
+    border-color: #000000;
 }
 
 .quote {
@@ -60,7 +60,7 @@ body {
 }
 
 .gay {
-    background-image: linear-gradient(to left,#1770d6, #17d67d,#d61770);
+    background-image: linear-gradient(to left,#6a1b9a, #ab47bc,#ce93d8);
     color: transparent;
     background-clip: text;
     -webkit-background-clip: text;
@@ -80,5 +80,5 @@ h2 {
 }
 
 a {
-    color: #1770d6;
+    color: #ce93d8;
 }
